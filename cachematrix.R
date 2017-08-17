@@ -1,6 +1,7 @@
 ## These functions create a special object who stock a matrix,
 ## compute its inverse and keep it in the cache
 
+
 ## This function creates a special matrix and returns a list of function to get and set the value
 ## of a matrix and to get and set the inverse of a matrix
 
